@@ -1,0 +1,13 @@
+#if (${PACKAGE_NAME} && ${PACKAGE_NAME} != "")package ${PACKAGE_NAME};#end
+import lombok.Data;
+import java.util.Date;
+import java.math.BigDecimal;
+
+/**
+ * @author ${USER} E-mail:${E_MAIL}
+ * @version 创建时间：${DATE} ${TIME}
+ *     ${doCalssName}DTO对象
+ */
+@Data
+public class ${doCalssName}DTO {
+}

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="easy-mapper-1.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/easy-mapper-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fastjson-1.2.31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lombok-1.16.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/TableLayout-20050920.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
