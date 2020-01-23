@@ -38,7 +38,6 @@ public class CreateDTOAction extends BaseAnAction  {
         final PsiField[] psiFields = dtoPsiClass.getFields();
         final PsiClass psiClass = this.getJavaDirectoryService().createClass(this.getPsiDirectory(), "", "MMS_DTO", false, param);
         WriteCommandAction.runWriteCommandAction((Project)this.getProject(), (Runnable)new Runnable(){
-
             @Override
             public void run() {
                 for (PsiField psiField : psiFields) {
